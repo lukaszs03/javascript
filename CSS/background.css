@@ -1,0 +1,17 @@
+h1 {
+  background: rgb(255, 80, 80);
+  /*border-color:blue;
+    border-width: 5px;
+    border-style: solid;*/
+  border: 5px solid blue;
+}
+
+body {
+  background: green;
+}
+
+body {
+  background: url(https://images.photowall.com/products/60738/underwater.jpg?h=699&q=85);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
